@@ -2086,6 +2086,16 @@ ajv-errors@^1.0.0:
   resolved "https://registry.npm.taobao.org/ajv-errors/download/ajv-errors-1.0.1.tgz#f35986aceb91afadec4102fbd85014950cefa64d"
   integrity sha1-81mGrOuRr63sQQL72FAUlQzvpk0=
 
+ajv-errors@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/ajv-errors/-/ajv-errors-3.0.0.tgz#e54f299f3a3d30fe144161e5f0d8d51196c527bc"
+  integrity sha512-V3wD15YHfHz6y0KdhYFjyy9vWtEVALT9UrxfN3zqlI6dMioHnJrqOYfyPKol3oqrnCM9uwkcdCwkJ0WUcbLMTQ==
+
+ajv-i18n@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npmjs.org/ajv-i18n/-/ajv-i18n-4.0.0.tgz#7b07e28fd417808e18fcc30df03a76d169be9375"
+  integrity sha512-bZxvSt2PZMBndVlLyhlU5OsqsulV83zwQR8NBiQICQP1SU3gAPXCuRVXcaFS0ZiNBtNLrTGKXK90vtQDAwiMRQ==
+
 ajv-keywords@^3.1.0, ajv-keywords@^3.4.1, ajv-keywords@^3.5.2:
   version "3.5.2"
   resolved "https://registry.npm.taobao.org/ajv-keywords/download/ajv-keywords-3.5.2.tgz#31f29da5ab6e00d1c2d329acf7b5929614d5014d"
